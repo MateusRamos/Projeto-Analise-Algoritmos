@@ -1,0 +1,4 @@
+O critério de aceitação deve ser feito por fora da busca local
+O pseudo-código deve estar presente no arquivo de texto
+Após cada perturbação deve-se verificar se o resultado tem conflitos
+A verificação de conflitos pode estar em uma função à parte (recomendado)
